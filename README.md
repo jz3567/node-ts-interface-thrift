@@ -13,8 +13,6 @@
 
 ## 用法
 
-  npm i / yarn
-
   node main.js
 
   暂未写成命令行形式，根据自己的需求定制main.js的代码
